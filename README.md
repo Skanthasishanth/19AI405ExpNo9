@@ -29,7 +29,7 @@ It is assumed that there will always be a safe path that the agent can take to e
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8696111a-a4a7-47cb-ba4b-43a4ef88573f)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/4be5bf06-79fa-4fa0-9334-38a33f06060b)
 
-### Program:
+## Program:
 
 ```py
 wumpus=[["Save","Breeze","PIT","Breeze"],
@@ -144,10 +144,10 @@ while(player):
         break
 ```
 
-### Output:
+## Output:
 
 ![funaiexp9](https://github.com/user-attachments/assets/ac8911ed-b22f-4d7a-baeb-641b5771c58d)
 
-### Result:
+## Result:
 
 Therefore, Wumpus World Problem using Python demonstrating Inferences from Propositional Logic solved successfully.
